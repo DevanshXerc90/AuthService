@@ -4,7 +4,8 @@
     "password": "Dev@23bcs074" ,
     "database": "AUTH_DB_DEV",
     "host": "127.0.0.1",
-    "dialect": "mysql"
+    "dialect": "mysql",
+    "port": 3307
   },
   "test": {
     "username": "root",
